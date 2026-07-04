@@ -23,8 +23,8 @@ A Power BI dashboard developed to help retail stakeholders monitor sales perform
 ## Executive Summary
 
 ![Executive Summary](01-executive-summary.jpg)
-**
-Provides an executive overview of revenue, orders, customers, average order value, and revenue growth trends.**
+
+Provides an executive overview of revenue, orders, customers, average order value, and revenue growth trends.
 
 
 
@@ -35,11 +35,13 @@ Provides an executive overview of revenue, orders, customers, average order valu
 Analyzes revenue distribution across countries and highlights key international markets.
 
 
+
 ## Product Performance Analysis
 
 ![Product Performance Analysis](03-product-performance-analysis.jpg)
 
 Compares top-performing products by revenue and sales volume to identify product opportunities.
+
 
 
 ## Customer Analysis
@@ -49,11 +51,13 @@ Compares top-performing products by revenue and sales volume to identify product
 Evaluates customer revenue, repeat purchase behavior, and average customer value.
 
 
+
 ## Business Narrative
 
 ![Business Narrative](05-Business-narrative.jpg)
 
 Summarizes the most important business insights and recommendations derived from the dashboard. 
+
 
 
 ---
