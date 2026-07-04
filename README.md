@@ -23,8 +23,9 @@ A Power BI dashboard developed to help retail stakeholders monitor sales perform
 ## Executive Summary
 
 ![Executive Summary](01-executive-summary.jpg)
+**
+Provides an executive overview of revenue, orders, customers, average order value, and revenue growth trends.**
 
-Provides an executive overview of revenue, orders, customers, average order value, and revenue growth trends.
 
 
 ## Geographic Analysis
