@@ -6,6 +6,10 @@ A Power BI dashboard developed to help retail stakeholders monitor sales perform
 
 # Project Summary
 
+This dashboard helps business stakeholders monitor retail sales performance by analyzing revenue trends, customer behavior, product performance, and geographic sales distribution across multiple markets.
+
+The dashboard provides an executive-level view of retail operations to support sales optimization, customer insights, inventory planning, and strategic business decision-making.
+
 | Item | Details |
 |------|---------|
 | Industry | Retail |
@@ -14,7 +18,7 @@ A Power BI dashboard developed to help retail stakeholders monitor sales perform
 | Audience | Sales Managers, Business Stakeholders |
 | Tools | Power BI, Power Query, DAX, Excel |
 | Data Source | Kaggle Online Retail Sales Dataset (2009–2011) |
-| Skills | Data Modeling, KPI Design, Business Analysis, Data Visualization |
+| Skills | Data Modeling, KPI Design, Data Visualization, Business Analysis |
 
 ---
 
