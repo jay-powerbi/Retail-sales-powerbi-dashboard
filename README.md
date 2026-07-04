@@ -30,7 +30,7 @@ A Power BI dashboard developed to help retail stakeholders monitor sales perform
 
 ## Product Performance Analysis
 
-![Product Performance Analysis](03-product-performance.jpg)
+![Product Performance Analysis](03-Product-performance.jpg)
 
 ## Customer Analysis
 
