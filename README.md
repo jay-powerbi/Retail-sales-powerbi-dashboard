@@ -34,11 +34,11 @@ A Power BI dashboard developed to help retail stakeholders monitor sales perform
 
 ## Customer Analysis
 
-![Customer Analysis](04-customer-analysis.jpg)
+![Customer Analysis](04-Customer-analysis.jpg)
 
 ## Business Narrative
 
-![Business Narrative](05-business-narrative.jpg)
+![Business Narrative](05-Business-narrative.jpg)
 
 ---
 
