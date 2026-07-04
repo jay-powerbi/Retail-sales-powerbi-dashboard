@@ -121,13 +121,7 @@ This dashboard helps answer key business questions such as:
 
 # Data Source
 
-Primary Dataset
-
-- Kaggle Online Retail Sales Dataset
-
-Analysis Period
-
-- December 2009 – December 2011
+- Kaggle Online Retail Sales Dataset (December 2009 – December 2011）
 
 ---
 
